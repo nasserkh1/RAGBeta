@@ -8,7 +8,7 @@ this is just prototype for RAG which I will continue use it Ansallah for my grad
 
 #### How you can install python using miniconda
 
-1) Download and install MiniConda form here [https://www.anaconda.com/docs/getting-started/miniconda/main]
+ - Download and install MiniConda form here [https://www.anaconda.com/docs/getting-started/miniconda/main]
 
 
 #### once you have already donwload conda you will be in base zone. so you need to create enviroment follow these commands:
@@ -24,4 +24,16 @@ this is just prototype for RAG which I will continue use it Ansallah for my grad
 ```bash
 export PS1="\[\033[01;32m\]\u@\h:\w\n\[\033[00m\]\$ "
 ```
+
+## Installation
+
+### Install the req from requirements.txt
+#### using this command: ```pip install -r requirements.txt```
+
+
+### Set the environment variables
+
+#### for bignners I can upload my .env for you cuz it has secret keys for API or something that secret. so you need to copy my .env.example and fill it with your API keys and use it for you as .env
+
+#### using this command: ```cp .env.example .env```
 
