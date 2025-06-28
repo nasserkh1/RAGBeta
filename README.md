@@ -19,4 +19,9 @@ this is just prototype for RAG which I will continue use it Ansallah for my grad
 
 3) now you need to activate your enviorment use this command: ```conda activate mini-rag-app```
 
+### (Optinal) setup you command line interface for better readability
+
+```bash
+export PS1="\[\033[01;32m\]\u@\h:\w\n\[\033[00m\]\$ "
+```
 
