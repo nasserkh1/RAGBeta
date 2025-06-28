@@ -37,3 +37,6 @@ export PS1="\[\033[01;32m\]\u@\h:\w\n\[\033[00m\]\$ "
 
 #### using this command: ```cp .env.example .env```
 
+## Run FastAPI server
+
+### Use this command line: ```uvicorn main:app --reload --host 0.0.0.0 --port 5555. (About the port you can use wherever you like)
